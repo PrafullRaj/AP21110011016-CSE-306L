@@ -1,5 +1,3 @@
-// symbol table Implementation
-//K.Purna sai AP20110010598
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
